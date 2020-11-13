@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning R.
 - 🤝 I’m looking to collaborate on projects needing predictive models, data cleaning or analysis.
 - 💬 Ask me about bridging the gap in technology education and representation.
-- 📫 How to reach me: 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/britnelikecafe/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I've been pescatarian for 14 years.  
